@@ -36,11 +36,11 @@ automaten" in deze context en argumenteer waarom de transformatie
 deterministisch". (kies zelf of je die "niet" wil houden of niet)
 ########################################################################
 
-Transformatie:		p27-28
+Transformatie:		p29-30
 
 Equivalentie:		2 Automaten zijn equivalent asa ze dezelfde taal bepalen, in deze context is dat relevant omdat we uiteraard willen dat de NFA na transformatie naar een DFA nog steeds dezelfde taal bepaalt, anders was het hele process redelijk zinloos
 
-Bewijs correctheid:	p28
+Bewijs correctheid:	p30
 
 Determinisme:		Nergens in het bewijs wordt een keuze gemaakt, of iets willekeurig gekozen (toch niks van belang), dus het is deterministisch.
 
